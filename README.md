@@ -1,7 +1,8 @@
 # Hello, folks!  <img src="https://raw.githubusercontent.com/MaggieChege/MaggieChege/master/wave.gif" width="30px" height="30px" />
 <br>
 
-My name is Maggie Chege, Am Software Engineer from Nairobi, Kenya. Am a data ethusiast and I build software with a lot of thought on design based on the data
+My name is Maggie Chege.
+A Software Engineer from Nairobi, Kenya. Am a data ethusiast and I build software with a lot of thought on design on the data.
 
 
 
