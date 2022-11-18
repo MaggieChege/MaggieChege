@@ -6,10 +6,10 @@ A Software Engineer from Nairobi, Kenya. Am a data ethusiast and I build softwar
 
 
 
-    - I have worked as Backend Engineer.
+    - I work as a Backend Engineer.
     - I love exploring Data Engineering tools (DBT, Apache Airflow).
     - I enjoy contributing to open source Machine Learn Learning Libraries.
-    - In my free time I solve Leetcode coding questions and read tech articles.
+    - In my free time I solve Leetcode coding questions, gamifying my learning experience and read tech articles.
     - My current reads:
                     - Cracking the Coding Interview
                     - Designing data intensive applications
